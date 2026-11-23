@@ -9,10 +9,10 @@ The full STinGer install already includes it. To add it by hand, put this in `do
 ```
 [YoAaronD/STinGer-ROMs]
 db_url = https://raw.githubusercontent.com/YoAaronD/STinGer-ROMs/main/db.json.zip
-filter = !cv1000
+filter = all
 ```
 
-The `!cv1000` filter leaves out zips that only the CV1000 games use (about 1.3 GB instead of 2.2 GB). If you have Raki's CV1000 core, change it to `filter = all`.
+That's about 2.2 GB. 0.9 GB of it is for the Cave CV1000 games (Mushihime-sama, Futari, Espgaluda II, Dai-Fukkatsu and more), which need Raki's CV1000 core from his Patreon. If you'd rather leave them out, use `filter = !cv1000` here and in STinGer's section.
 
 Bringing your own ROMs? Leave this section out.
 
