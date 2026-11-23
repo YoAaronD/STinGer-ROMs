@@ -12,7 +12,7 @@ db_url = https://raw.githubusercontent.com/YoAaronD/STinGer-ROMs/main/db.json.zi
 filter = all
 ```
 
-That's about 2.2 GB. 0.9 GB of it is for the Cave CV1000 games (Mushihime-sama, Futari, Espgaluda II, Dai-Fukkatsu and more), which need Raki's CV1000 core from his Patreon. If you'd rather leave them out, use `filter = !cv1000` here and in STinGer's section.
+That's about 2.2 GB. 0.9 GB of it is for the Cave CV1000 games (Mushihime-sama, Futari, Espgaluda II, Dai-Fukkatsu and more), which need Raki's CV1000 core from [his Patreon](https://www.patreon.com/cw/ikamusume). If you'd rather leave them out, use `filter = !cv1000` here and in STinGer's section.
 
 Bringing your own ROMs? Leave this section out.
 
